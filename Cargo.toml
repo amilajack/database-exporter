@@ -17,7 +17,7 @@ categories = ["databases"]
 name = "database_exporter"
 
 [dependencies]
-rusqlite = "0.14.0"
+rusqlite = "0.25.3"
 serde_json = "1.0"
 csv = "1.0.0-beta.5"
 fake = "1.2.1"
